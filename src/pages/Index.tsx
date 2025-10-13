@@ -39,7 +39,7 @@ const Index = () => {
         <div className="max-w-4xl mx-auto text-center space-y-8 animate-fade-in">
           <div className="space-y-4">
             <h1 className="text-6xl md:text-7xl font-bold bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent animate-scale-in">
-              Привет, я разработчик
+              Привет, я Алиса Смирнова
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground animate-slide-up">
               Создаю современные веб-приложения и превращаю идеи в реальность
@@ -187,7 +187,7 @@ const Index = () => {
 
       <footer className="py-8 px-4 bg-background border-t">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-muted-foreground">© 2024 Все права защищены</p>
+          <p className="text-muted-foreground">© 2024 Алиса Смирнова. Все права защищены</p>
           <div className="flex gap-4">
             <Button variant="ghost" size="icon" className="hover:text-primary transition-colors">
               <Icon name="Github" size={20} />

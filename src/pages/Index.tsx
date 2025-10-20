@@ -12,7 +12,7 @@ const Index = () => {
   const projects = [
     {
       id: 1,
-      title: "Творческая фотография",
+      title: "Это я и моя лучшая подруга Вика",
       description: "Художественные портреты и креативные фотосессии",
       tags: ["Photography", "Portrait", "Creative"],
       image: "https://cdn.poehali.dev/files/7ce40247-4f20-47d1-922f-99f2831dc431.jpg"

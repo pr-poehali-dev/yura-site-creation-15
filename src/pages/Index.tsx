@@ -26,7 +26,7 @@ const Index = () => {
     },
     {
       id: 3,
-      title: "Яркие моменты",
+      title: "Это я маленькая",
       description: "Эмоциональные и живые фотосессии",
       tags: ["Lifestyle", "Emotions", "Colors"],
       image: "https://cdn.poehali.dev/files/7b010273-c41b-4275-bd98-da8bc051fd11.jpg"

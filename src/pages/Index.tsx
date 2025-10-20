@@ -64,8 +64,7 @@ const Index = () => {
           <div className="text-center space-y-4 animate-fade-in">
             <h2 className="text-4xl md:text-5xl font-bold">Обо мне</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Опытный fullstack разработчик с фокусом на создание качественных 
-              пользовательских интерфейсов и масштабируемых решений
+              Меня зовут Алиса Смирнова, я ученица 9 класса
             </p>
           </div>
 
